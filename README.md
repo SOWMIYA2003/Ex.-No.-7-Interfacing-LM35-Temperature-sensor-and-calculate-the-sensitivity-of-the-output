@@ -2,6 +2,8 @@
 
 
 ### Ex. No. :7
+## Name : Sowmiya N
+## Reg .No : 212221230106
 ## Date: 05.11.2022
 ### Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
 
